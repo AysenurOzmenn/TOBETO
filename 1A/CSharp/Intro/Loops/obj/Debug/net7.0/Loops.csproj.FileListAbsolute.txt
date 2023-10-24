@@ -1,0 +1,14 @@
+C:\TOBETO\1A\CSharp\Intro\Loops\bin\Debug\net7.0\Loops.exe
+C:\TOBETO\1A\CSharp\Intro\Loops\bin\Debug\net7.0\Loops.deps.json
+C:\TOBETO\1A\CSharp\Intro\Loops\bin\Debug\net7.0\Loops.runtimeconfig.json
+C:\TOBETO\1A\CSharp\Intro\Loops\bin\Debug\net7.0\Loops.dll
+C:\TOBETO\1A\CSharp\Intro\Loops\bin\Debug\net7.0\Loops.pdb
+C:\TOBETO\1A\CSharp\Intro\Loops\obj\Debug\net7.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\TOBETO\1A\CSharp\Intro\Loops\obj\Debug\net7.0\Loops.AssemblyInfoInputs.cache
+C:\TOBETO\1A\CSharp\Intro\Loops\obj\Debug\net7.0\Loops.AssemblyInfo.cs
+C:\TOBETO\1A\CSharp\Intro\Loops\obj\Debug\net7.0\Loops.csproj.CoreCompileInputs.cache
+C:\TOBETO\1A\CSharp\Intro\Loops\obj\Debug\net7.0\Loops.dll
+C:\TOBETO\1A\CSharp\Intro\Loops\obj\Debug\net7.0\refint\Loops.dll
+C:\TOBETO\1A\CSharp\Intro\Loops\obj\Debug\net7.0\Loops.pdb
+C:\TOBETO\1A\CSharp\Intro\Loops\obj\Debug\net7.0\Loops.genruntimeconfig.cache
+C:\TOBETO\1A\CSharp\Intro\Loops\obj\Debug\net7.0\ref\Loops.dll
