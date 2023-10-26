@@ -1,0 +1,14 @@
+C:\TOBETO\1A\CSharp\Intro\Strings\bin\Debug\net7.0\Strings.exe
+C:\TOBETO\1A\CSharp\Intro\Strings\bin\Debug\net7.0\Strings.deps.json
+C:\TOBETO\1A\CSharp\Intro\Strings\bin\Debug\net7.0\Strings.runtimeconfig.json
+C:\TOBETO\1A\CSharp\Intro\Strings\bin\Debug\net7.0\Strings.dll
+C:\TOBETO\1A\CSharp\Intro\Strings\bin\Debug\net7.0\Strings.pdb
+C:\TOBETO\1A\CSharp\Intro\Strings\obj\Debug\net7.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\TOBETO\1A\CSharp\Intro\Strings\obj\Debug\net7.0\Strings.AssemblyInfoInputs.cache
+C:\TOBETO\1A\CSharp\Intro\Strings\obj\Debug\net7.0\Strings.AssemblyInfo.cs
+C:\TOBETO\1A\CSharp\Intro\Strings\obj\Debug\net7.0\Strings.csproj.CoreCompileInputs.cache
+C:\TOBETO\1A\CSharp\Intro\Strings\obj\Debug\net7.0\Strings.dll
+C:\TOBETO\1A\CSharp\Intro\Strings\obj\Debug\net7.0\refint\Strings.dll
+C:\TOBETO\1A\CSharp\Intro\Strings\obj\Debug\net7.0\Strings.pdb
+C:\TOBETO\1A\CSharp\Intro\Strings\obj\Debug\net7.0\Strings.genruntimeconfig.cache
+C:\TOBETO\1A\CSharp\Intro\Strings\obj\Debug\net7.0\ref\Strings.dll

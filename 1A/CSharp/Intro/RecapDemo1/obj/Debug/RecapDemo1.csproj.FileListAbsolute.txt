@@ -1,0 +1,10 @@
+C:\TOBETO\1A\CSharp\Intro\RecapDemo1\bin\Debug\RecapDemo1.exe.config
+C:\TOBETO\1A\CSharp\Intro\RecapDemo1\bin\Debug\RecapDemo1.exe
+C:\TOBETO\1A\CSharp\Intro\RecapDemo1\bin\Debug\RecapDemo1.pdb
+C:\TOBETO\1A\CSharp\Intro\RecapDemo1\obj\Debug\RecapDemo1.csproj.AssemblyReference.cache
+C:\TOBETO\1A\CSharp\Intro\RecapDemo1\obj\Debug\RecapDemo1.Form1.resources
+C:\TOBETO\1A\CSharp\Intro\RecapDemo1\obj\Debug\RecapDemo1.Properties.Resources.resources
+C:\TOBETO\1A\CSharp\Intro\RecapDemo1\obj\Debug\RecapDemo1.csproj.GenerateResource.cache
+C:\TOBETO\1A\CSharp\Intro\RecapDemo1\obj\Debug\RecapDemo1.csproj.CoreCompileInputs.cache
+C:\TOBETO\1A\CSharp\Intro\RecapDemo1\obj\Debug\RecapDemo1.exe
+C:\TOBETO\1A\CSharp\Intro\RecapDemo1\obj\Debug\RecapDemo1.pdb

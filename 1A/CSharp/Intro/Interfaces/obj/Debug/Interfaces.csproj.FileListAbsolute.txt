@@ -1,0 +1,7 @@
+C:\TOBETO\1A\CSharp\Intro\Interfaces\bin\Debug\Interfaces.exe.config
+C:\TOBETO\1A\CSharp\Intro\Interfaces\bin\Debug\Interfaces.exe
+C:\TOBETO\1A\CSharp\Intro\Interfaces\bin\Debug\Interfaces.pdb
+C:\TOBETO\1A\CSharp\Intro\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\TOBETO\1A\CSharp\Intro\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\TOBETO\1A\CSharp\Intro\Interfaces\obj\Debug\Interfaces.exe
+C:\TOBETO\1A\CSharp\Intro\Interfaces\obj\Debug\Interfaces.pdb
