@@ -1,0 +1,15 @@
+C:\TOBETO\1A\CSharp\MyFinalProject\Entities\bin\Debug\net7.0\Entities.deps.json
+C:\TOBETO\1A\CSharp\MyFinalProject\Entities\bin\Debug\net7.0\Entities.dll
+C:\TOBETO\1A\CSharp\MyFinalProject\Entities\bin\Debug\net7.0\Entities.pdb
+C:\TOBETO\1A\CSharp\MyFinalProject\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\TOBETO\1A\CSharp\MyFinalProject\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+C:\TOBETO\1A\CSharp\MyFinalProject\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+C:\TOBETO\1A\CSharp\MyFinalProject\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+C:\TOBETO\1A\CSharp\MyFinalProject\Entities\obj\Debug\net7.0\Entities.dll
+C:\TOBETO\1A\CSharp\MyFinalProject\Entities\obj\Debug\net7.0\refint\Entities.dll
+C:\TOBETO\1A\CSharp\MyFinalProject\Entities\obj\Debug\net7.0\Entities.pdb
+C:\TOBETO\1A\CSharp\MyFinalProject\Entities\obj\Debug\net7.0\ref\Entities.dll
+C:\TOBETO\1A\CSharp\MyFinalProject\Entities\bin\Debug\net7.0\Core.dll
+C:\TOBETO\1A\CSharp\MyFinalProject\Entities\bin\Debug\net7.0\Core.pdb
+C:\TOBETO\1A\CSharp\MyFinalProject\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+C:\TOBETO\1A\CSharp\MyFinalProject\Entities\obj\Debug\net7.0\Entities.csproj.CopyComplete
